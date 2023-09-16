@@ -1,0 +1,29 @@
+* {
+    margin= o;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: azure;
+}
+.custom-navbar{
+    background-color: #414C55;
+}
+.nav-link {
+    color: rgb(246, 243, 238);
+}
+.nav-link:hover {
+    color: #393b3d;
+}
+.carousel-item h5{
+   color: black;
+}
+.carousel-item p {
+   color: black;
+}
+.recommend-item {
+    background-color: rgb(239, 238, 236);
+}
+.form-control {
+    width: 400px;
+}
